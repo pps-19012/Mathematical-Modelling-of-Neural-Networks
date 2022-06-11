@@ -12,13 +12,5 @@ Understanding the effects of variation of parameters (like advertisements, impre
 There were many simple things that we would have done. But, we thought let's push ourselves a step further and go, research, and learn on a completely new topic. We are glad that we have learnt something different from the textbooks and thoroughly understood and enjoyed the concept which is quite widespread nowadays. We would like to thank the professors for giving us an opportunity to do such a project.
 
 
-### [Project Report](https://github.com/MumukshTayal/Mathematical-model-NN/blob/main/Report.pdf)
-### [Code](https://github.com/MumukshTayal/Mathematical-model-NN/blob/main/Project_Code.ipynb)
-
-## License
-
-The code is licenced under the MIT license and free to use by anyone without any restrictions.
-
-***
-
-<p align='center'>Created with :heart: by <a href="https://github.com/MumukshTayal">Mumuksh Tayal</a></p>
+### [Project Report](https://github.com/pps-19012/Mathematical-Modelling-of-Neural-Networks/blob/main/Report.pdf)
+### [Code](https://github.com/pps-19012/Mathematical-Modelling-of-Neural-Networks/blob/main/Project_Code.ipynb)
