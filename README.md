@@ -13,4 +13,4 @@ There were many simple things that we would have done. But, we thought let's pus
 
 
 ### [Project Report](https://github.com/pps-19012/Mathematical-Modelling-of-Neural-Networks/blob/main/Report.pdf)
-### [Code](https://github.com/pps-19012/Mathematical-Modelling-of-Neural-Networks/blob/main/Project_Code.ipynb)
+
